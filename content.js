@@ -163,7 +163,7 @@ const macro = () => {
     }
   }
 
-  setTimeout(reload, 1000);
+  setTimeout(reload, 2000);
 };
 
 const reload = () => {
